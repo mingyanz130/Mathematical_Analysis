@@ -1,0 +1,97 @@
+10/31/18 08:22
+
+lstsq_eigs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/02/18 14:29
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Your plot did not appear
+Score += 0
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Code can be improved for power_method()
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+11/05/18 16:25
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+IndexError: index 20 is out of bounds for axis 0 with size 20
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/07/18 18:08
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Amazing!
+
+-------------------------------------------------------------------------------
+

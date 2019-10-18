@@ -1,0 +1,25 @@
+03/22/18
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 30/30 = 100.0%
+
+Comments: Excellent!
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,3 @@
+https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Volume1/dream.png
+https://github.com/Foundations-of-Applied-Mathematics/Data/blob/master/Volume1/dream_gray.png
+https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/PythonEssentials.pdf

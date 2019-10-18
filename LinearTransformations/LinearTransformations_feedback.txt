@@ -1,0 +1,72 @@
+09/25/18 13:11
+
+Problem 1 (10 points):
+reflect() failed
+Score += 7
+
+Problem 2 (15 points):
+ValueError: all the input arrays must have same number of dimensions
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 12/50 = 24.0%
+
+-------------------------------------------------------------------------------
+
+09/28/18 14:17
+
+Problem 1 (10 points):
+reflect() failed
+Score += 7
+
+Problem 2 (15 points):
+ValueError: all the input arrays must have same number of dimensions
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob3()
+Score += 0
+
+Total score: 7/50 = 14.0%
+
+
+Comments:
+	Let us know if you have any questions!
+
+-------------------------------------------------------------------------------
+
+10/01/18 17:17
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

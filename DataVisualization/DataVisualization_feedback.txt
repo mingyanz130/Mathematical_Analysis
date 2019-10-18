@@ -1,0 +1,36 @@
+12/08/18 02:09
+
+data_visualization.ipynb has not been modified yet
+
+-------------------------------------------------------------------------------
+
+12/13/18 14:04
+
+Anscombe's quartet (10 points):
+Score += 10
+
+Bernstein basis polynomials (5 points):
+Score += 5
+
+Major League Baseball (5 points):
+Score += 5
+
+Earthquakes (10 points):
+Score += 10
+
+Rosenbrock function (5 points):
+Score += 5
+
+Countries (10 points):
+Need to describe insights from the visualizations
+Score += 7
+
+Code quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,60 @@
+02/12/19 10:03
+
+montecarlo_integration.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+02/15/19 15:05
+
+montecarlo_integration.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+02/22/19 15:36
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+TypeError: unsupported format string passed to numpy.ndarray.__format__
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+02/25/19 22:15
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Amazing!
+
+-------------------------------------------------------------------------------
+

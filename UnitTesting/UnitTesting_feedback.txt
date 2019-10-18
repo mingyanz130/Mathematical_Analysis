@@ -1,0 +1,88 @@
+10/11/18 17:25
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/15/18 16:45
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/22/18 14:19
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/22/18 17:09
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+TypeError: Invalid return type 'NoneType'
+
+Coverage (20 points):
+Need 100% coverage and at least 84 statements (you have 90% and 83 statements)
+Score += 5
+
+Code Quality (5 points):
+Need comments
+Score += 0
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+
+10/22/18 22:57
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Coverage (20 points):
+Score += 20
+
+Code Quality (5 points):
+Need more comments
+Score += 1
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/24/18 14:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Coverage (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

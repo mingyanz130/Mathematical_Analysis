@@ -1,0 +1,102 @@
+01/22/19 09:57
+
+differentiation.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+01/25/19 15:56
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+cheb_poly(x, 0) failed to return an array of ones
+Score += 0
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Need comments
+Score += 0
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+01/28/19 19:24
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+cheb_poly(x, 0) failed to return an array of ones
+Score += 0
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Need comments
+Score += 0
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+02/06/19 13:56
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

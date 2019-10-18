@@ -1,0 +1,176 @@
+04/05/19 14:30
+
+Problem 1 (10 points):
+is_drazin() failed to return False for A =
+[[    -9.     11.    -21.     63.   -252.]
+ [    70.    -69.    141.   -421.   1684.]
+ [  -575.    575.  -1149.   3451. -13801.]
+ [  3891.  -3891.   7782. -23345.  93365.]
+ [  1024.  -1024.   2048.  -6144.  24572.]],
+A^D =
+[[0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]], k =4
+	Correct response:
+False
+	Student response:
+True
+Score += 8
+
+Problem 2 (10 points):
+drazin_inverse(A) failed for A =
+[[ 10.  -8.   6.  -3.]
+ [ 12. -10.   8.  -4.]
+ [  1.  -1.   1.   0.]
+ [ -2.   2.  -2.   2.]]
+	Correct response:
+[[ 9.386e+14 -9.386e+14  9.386e+14 -4.693e+14]
+ [ 1.877e+15 -1.877e+15  1.877e+15 -9.386e+14]
+ [ 9.386e+14 -9.386e+14  9.386e+14 -4.693e+14]
+ [-8.570e-01  8.570e-01  1.430e-01  9.285e-01]]
+	Student response:
+[[ 2.  -1.5  1.  -0.5]
+ [ 2.  -1.5  1.  -0.5]
+ [-1.   1.  -1.   1. ]
+ [-2.   2.  -2.   2. ]]
+drazin_inverse(A) failed for A =
+[[ 5. -3.  2.]
+ [15. -9.  6.]
+ [10. -6.  4.]]
+	Correct response:
+[[-2.043e+22  3.157e+22 -3.715e+22]
+ [-6.128e+22  9.472e+22 -1.114e+23]
+ [-4.086e+22  6.315e+22 -7.429e+22]]
+	Student response:
+[[0. 0. 0.]
+ [0. 0. 0.]
+ [0. 0. 0.]]
+drazin_inverse(A) failed for A =
+[[-1.    -1.    -1.   ]
+ [-1.     0.333 -1.   ]
+ [-1.    -1.    -1.   ]]
+	Correct response:
+[[ 1.319e+33  0.000e+00 -1.319e+33]
+ [-2.522e+15  7.500e-01  2.522e+15]
+ [-1.319e+33 -8.000e+00  1.319e+33]]
+	Student response:
+[[-0.063 -0.375 -0.062]
+ [-0.375  0.75  -0.375]
+ [-0.063 -0.375 -0.062]]
+Score += 4
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 5 (15 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for effective_resistance()
+Score += 0
+
+Total score: 12/50 = 24.0%
+
+-------------------------------------------------------------------------------
+
+04/08/19 20:36
+
+Problem 1 (10 points):
+is_drazin() failed to return False for A =
+[[    -9.     11.    -21.     63.   -252.]
+ [    70.    -69.    141.   -421.   1684.]
+ [  -575.    575.  -1149.   3451. -13801.]
+ [  3891.  -3891.   7782. -23345.  93365.]
+ [  1024.  -1024.   2048.  -6144.  24572.]],
+A^D =
+[[0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0.]], k =4
+	Correct response:
+False
+	Student response:
+True
+Score += 8
+
+Problem 2 (10 points):
+drazin_inverse(A) failed for A =
+[[ 10.  -8.   6.  -3.]
+ [ 12. -10.   8.  -4.]
+ [  1.  -1.   1.   0.]
+ [ -2.   2.  -2.   2.]]
+	Correct response:
+[[ 9.386e+14 -9.386e+14  9.386e+14 -4.693e+14]
+ [ 1.877e+15 -1.877e+15  1.877e+15 -9.386e+14]
+ [ 9.386e+14 -9.386e+14  9.386e+14 -4.693e+14]
+ [-8.570e-01  8.570e-01  1.430e-01  9.285e-01]]
+	Student response:
+[[ 2.  -1.5  1.  -0.5]
+ [ 2.  -1.5  1.  -0.5]
+ [-1.   1.  -1.   1. ]
+ [-2.   2.  -2.   2. ]]
+drazin_inverse(A) failed for A =
+[[ 5. -3.  2.]
+ [15. -9.  6.]
+ [10. -6.  4.]]
+	Correct response:
+[[-2.043e+22  3.157e+22 -3.715e+22]
+ [-6.128e+22  9.472e+22 -1.114e+23]
+ [-4.086e+22  6.315e+22 -7.429e+22]]
+	Student response:
+[[0. 0. 0.]
+ [0. 0. 0.]
+ [0. 0. 0.]]
+drazin_inverse(A) failed for A =
+[[-1.    -1.    -1.   ]
+ [-1.     0.333 -1.   ]
+ [-1.    -1.    -1.   ]]
+	Correct response:
+[[ 1.319e+33  0.000e+00 -1.319e+33]
+ [-2.522e+15  7.500e-01  2.522e+15]
+ [-1.319e+33 -8.000e+00  1.319e+33]]
+	Student response:
+[[-0.063 -0.375 -0.062]
+ [-0.375  0.75  -0.375]
+ [-0.063 -0.375 -0.062]]
+Score += 4
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 5 (15 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 17/50 = 34.0%
+
+-------------------------------------------------------------------------------
+
+04/15/19 13:33
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

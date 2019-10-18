@@ -1,0 +1,42 @@
+04/12/19 14:22
+
+iterative_solvers.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+04/15/19 21:58
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+incorrect gauss_seidel() plot
+Score += 9
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+hot_plate() failed with n=5
+hot_plate() failed with n=10
+hot_plate() failed with n=15
+hot_plate() failed with n=20
+Score += 1
+
+Problem 7 (5 points):
+TimeoutError: Timeout after 30 seconds
+
+Code Quality (5 points):
+comments
+Score += 0
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+

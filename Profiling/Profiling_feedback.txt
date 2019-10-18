@@ -1,0 +1,193 @@
+01/08/19 12:28
+
+Problem 1 (5 points):
+max_path_fast('triangle.txt'):
+	Solution time: 0.000345706940 seconds
+	Student time:  0.000230312347 seconds (Excellent!)
+max_path_fast('triangle_large.txt'):
+	Solution time: 0.005416870117 seconds
+	Student time:  0.005564212799 seconds
+Score += 5
+
+Problem 2 (10 points):
+primes_fast(100):
+	Solution time: 0.000283002853 seconds
+	Student time:  0.002152919769 seconds
+Needs to be a little faster
+TimeoutError: Timeout after 8 seconds
+
+Problem 3 (5 points):
+ValueError: operands could not be broadcast together with shapes (10,15) (10,) 
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Needs comments
+Score += 3
+
+Total score: 8/50 = 16.0%
+
+-------------------------------------------------------------------------------
+
+01/10/19 16:29
+
+Problem 1 (5 points):
+max_path_fast('triangle.txt'):
+	Solution time: 0.000357151031 seconds
+	Student time:  0.000266313553 seconds (Excellent!)
+max_path_fast('triangle_large.txt'):
+	Solution time: 0.007382154465 seconds
+	Student time:  0.006804943085 seconds (Excellent!)
+Score += 5
+
+Problem 2 (10 points):
+primes_fast(100):
+	Solution time: 0.000318050385 seconds
+	Student time:  0.000349998474 seconds
+primes_fast(10001):
+	Solution time: 0.131873130798 seconds
+	Student time:  0.131695985794 seconds (Excellent!)
+Score += 10
+
+Problem 3 (5 points):
+nearest_column_fast() failed for 10x15 A
+nearest_column_fast() failed for 1000x1005 A
+Score += 0
+
+Problem 4 (5 points):
+name_scores_fast() failed
+	Correct response: 871198282
+	Student response: 293577
+Score += 0
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Need more comments
+Score += 2
+
+Total score: 17/50 = 34.0%
+
+-------------------------------------------------------------------------------
+
+01/10/19 17:16
+
+Problem 1 (5 points):
+max_path_fast('triangle.txt'):
+	Solution time: 0.000377893448 seconds
+	Student time:  0.000263929367 seconds (Excellent!)
+max_path_fast('triangle_large.txt'):
+	Solution time: 0.005678892136 seconds
+	Student time:  0.008143901825 seconds
+Score += 5
+
+Problem 2 (10 points):
+primes_fast(100):
+	Solution time: 0.000603914261 seconds
+	Student time:  0.000663042068 seconds
+primes_fast(10001):
+	Solution time: 0.129237890244 seconds
+	Student time:  0.138075828552 seconds
+Score += 10
+
+Problem 3 (5 points):
+nearest_column_fast() failed for 10x15 A
+nearest_column_fast() failed for 1000x1005 A
+Score += 0
+
+Problem 4 (5 points):
+name_scores_fast() failed
+	Correct response: 871198282
+	Student response: 293577
+Score += 0
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Needs comments
+Score += 0
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+
+01/14/19 20:37
+
+Problem 1 (5 points):
+max_path_fast('triangle.txt'):
+	Solution time: 0.000452041626 seconds
+	Student time:  0.000548124313 seconds
+max_path_fast('triangle_large.txt'):
+	Solution time: 0.008267879486 seconds
+	Student time:  0.006088018417 seconds (Excellent!)
+Score += 5
+
+Problem 2 (10 points):
+primes_fast(100):
+	Solution time: 0.000319242477 seconds
+	Student time:  0.000368833542 seconds
+primes_fast(10001):
+	Solution time: 0.125594854355 seconds
+	Student time:  0.146378040314 seconds
+Score += 10
+
+Problem 3 (5 points):
+nearest_column_fast(), 10x15 A:
+	Solution time: 0.000114202499 seconds
+	Student time:  0.000065088272 seconds (Excellent!)
+nearest_column_fast(), 1000x1005 A:
+	Solution time: 0.022320032120 seconds
+	Student time:  0.008736133575 seconds (Excellent!)
+Score += 5
+
+Problem 4 (5 points):
+name_scores_fast():
+	Solution time: 0.014472961426 seconds
+	Student time:  0.010052204132 seconds (Excellent!)
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+list(prime_sieve(100000)):
+	Solution time: 3.936180114746 seconds
+	Student time:  0.865622043610 seconds (Excellent!)
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
